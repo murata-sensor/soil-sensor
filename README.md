@@ -24,6 +24,7 @@ This page provides links to sample code, tools, and other software resources tha
 | Repository                                                                                | Description                                                                                                                                                                                                                        |
 | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | [soil-sensor-samples-python](https://github.com/murata-sensor/soil-sensor-samples-python) | Python sample code for communicating with Murata soil sensors from Windows, Linux, macOS, and Raspberry Pi. It includes examples for reading measurements and sensor information, continuous logging, and other common operations. |
+| [soil-sensor-samples-arduino](https://github.com/murata-sensor/soil-sensor-samples-arduino) | Arduino library and sample code for the SLT5006 soil sensor (UART interface). Includes basic measurement examples for Arduino boards, as well as measurement display, microSD CSV logging, and optional Google Sheets integration for M5Stack Core2. |
 
 Additional sample code and supported platforms may be added in the future.
 
@@ -76,6 +77,7 @@ For product specifications, purchasing information, and technical inquiries, ple
 | リポジトリ                                                                                     | 内容                                                                                                               |
 | ----------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------- |
 | [soil-sensor-samples-python](https://github.com/murata-sensor/soil-sensor-samples-python) | Windows、Linux、macOS、Raspberry Pi から村田製作所の土壌センサと通信するための Python サンプルコードです。測定値やセンサ情報の読み出し、連続測定・ログ保存などのサンプルを収録しています。 |
+| [soil-sensor-samples-arduino](https://github.com/murata-sensor/soil-sensor-samples-arduino) | 土壌センサ SLT5006（UART）向けの Arduino ライブラリとサンプルコードです。Arduino ボードでの基本測定、M5Stack Core2 での測定値表示、microSD への CSV 記録、Google Sheets へのデータ送信（任意）などの実装例を収録しています。 |
 
 今後、対応プラットフォームやサンプルコードを追加する場合があります。
 
